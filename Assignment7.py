@@ -1,5 +1,14 @@
-# Getting user input
-name = input("Enter your name: ")
+print("|====================================================|",
+      "|                    ASSIGNMENT 1                    |",
+      "|====================================================|",
+      "|       Name       |       Muhammad Saad Sultan      |",
+      "|====================================================|",
+      "|      Roll No     |           PIAIC245902           |",
+      "|====================================================|",
+      "|       Batch      |                62               |",
+      "|====================================================|", sep="\n")
+
+name = input("\nEnter your name: ")
 num1 = int(input("Enter your first favorite number: "))
 num2 = int(input("Enter your second favorite number: "))
 num3 = int(input("Enter your third favorite number: "))
