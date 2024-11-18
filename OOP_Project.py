@@ -150,6 +150,15 @@ class MenuManager:
 
 
 def main():
+    print("|====================================================|",
+          "|                 Final OOP Project                  |",
+          "|====================================================|",
+          "|       Name       |       Muhammad Saad Sultan      |",
+          "|====================================================|",
+          "|      Roll No     |           PIAIC245902           |",
+          "|====================================================|",
+          "|       Batch      |                62               |",
+          "|====================================================|", sep="\n")
     tracker = PerformanceTracker()
     menu_manager = MenuManager(tracker)
     menu_manager.enroll_students()
