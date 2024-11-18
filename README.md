@@ -68,6 +68,15 @@ Menu Options:
 7. Exit: Ends the program.
 
 Example Run:
+|====================================================|
+|                 Final OOP Project                  |
+|====================================================|
+|       Name       |       Muhammad Saad Sultan      |
+|====================================================|
+|      Roll No     |           PIAIC245902           |
+|====================================================|
+|       Batch      |                62               |
+|====================================================|
 Welcome to Admin Panel!
 Enter the Roll No. of the student: 1
 Enter the name of the student: Saad
